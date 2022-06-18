@@ -8,7 +8,7 @@ const answers = [
   "Don't count on that.",
   "For sure!",
   "Ask again later.",
-  "Tes, definetely!",
+  "Yes, definetely!",
   "My answer is 'no'.",
   "Count on that.",
   "It's best not to tell you now.",
