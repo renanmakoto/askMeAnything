@@ -67,3 +67,10 @@ button:hover {
 img {
   width: 5.0rem;
 }
+
+#signature {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin-top: 50px;
+}
