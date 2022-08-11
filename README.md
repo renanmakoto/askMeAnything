@@ -1,5 +1,5 @@
 # askMeAnything
-A website for asking and getting random answers developed in class.
+A website for asking and getting random answers developed for practising.
 
 You may access the web application through the link below:
 
