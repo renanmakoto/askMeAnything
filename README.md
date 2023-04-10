@@ -1,10 +1,10 @@
 <h1 align="center">askMeAnything</h1>
 
-A website for asking and getting random answers developed for practising.
+<p align="center">A website for asking and getting random answers developed for practising.</p>
 
-You may access the web application through the link below:
+<p align="center">You may access the web application through the link below:</p>
 
-https://renanmakoto.github.io/askMeAnything
+<p align="center">https://renanmakoto.github.io/askMeAnything</p>
 
 <div align="center">
   
