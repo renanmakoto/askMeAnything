@@ -42,7 +42,6 @@ function askQuestion() {
 
   elementAnswer.style.opacity = 1
 
-
   setTimeout(function() {
     elementAnswer.style.opacity = 0
     buttonAsk.removeAttribute("disabled")
