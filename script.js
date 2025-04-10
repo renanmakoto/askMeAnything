@@ -25,7 +25,7 @@ const answers = [
 
 function askQuestion() {
 
-  if(inputQuestion.value == "") {
+  if (inputQuestion.value == "") {
     alert("Type your question.")
     return
   }
