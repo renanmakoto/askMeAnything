@@ -40,7 +40,7 @@ function askQuestion() {
 
   elementAnswer.innerHTML = question + answers[randomNumber]
 
-  elementAnswer.style.opacity = 1;
+  elementAnswer.style.opacity = 1
 
 
   setTimeout(function() {
